@@ -1,22 +1,24 @@
-<img src="https://github.com/volnores/volnores/blob/main/assets/bg.jpg" alt="Header" style="width: 100%; height: 200px; object-fit: cover;"/>
+<img src="https://github.com/volnores/volnores/blob/main/assets/bg.jpg" alt="Header" style="width: 100%; height: 300px; object-fit: cover;"/>
 
 # 👋 Hello there! I'm Sergey Samsonov
 
-## Software Engineer from Russia
+## Software Engineer from Russia🎓
+
+> #### I love writing code and learning new things🖥️
 
 ## 🌟 Review Projects
 
-### 1. [Название Проекта](https://github.com/ваш-профиль/ваш-проект)
+### 1. [E-commerse shop v-3.0](https://github.com/volnores/e-commerse-shop-v-3.0-)
 
-Описание проекта, что он делает и какие технологии использовались.
+> Full stack online store with an admin panel with which you can create various devices, types and brands
 
-### 2. [Название Проекта](https://github.com/ваш-профиль/ваш-проект)
+### 2. [Posts web app](https://github.com/volnores/posts-app)
 
-Описание проекта, что он делает и какие технологии использовались.
+> Frontend web application for reading posts with filtering, pagination, slider and other features
 
-### 3. [Название Проекта](https://github.com/ваш-профиль/ваш-проект)
+### 3. [E-commerse store v-2.0](https://github.com/volnores/e-commerse-shop-v-2.0)
 
-Описание проекта, что он делает и какие технологии использовались.
+> Frontend online store with filtering, pagination, slider and other features
 
 ---
 
@@ -24,13 +26,13 @@
 
 > General
 
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 > Frontend
 
@@ -50,10 +52,10 @@
 
 ## 📫 Contact
 
-[VK](https://vk.com/samsonov_s13)
+- [VK](https://vk.com/samsonov_s13)
 
-[GitHub](https://github.com/volnores)
+- [GitHub](https://github.com/volnores)
 
-[Telegram]()
+- [Telegram](https://t.me/Vxlnxres)
 
 ---

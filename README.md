@@ -1,4 +1,4 @@
-[![Header](https://github.com/volnores/volnores/blob/main/assets/bg.jpg)]
+<img src="https://github.com/volnores/volnores/blob/main/assets/bg.jpg" alt="Header" width="300" />
 
 # 👋 Hello there! I'm Sergey Samsonov
 

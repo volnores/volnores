@@ -1,3 +1,5 @@
+[![Header](https://github.com/volnores/volnores/blob/main/assets/bg.jpg)]
+
 # 👋 Hello there! I'm Sergey Samsonov
 
 ## Software Engineer from Russia

@@ -2,7 +2,7 @@
 
 # 👋 Hello there! I'm Sergey Samsonov
 
-## Software Engineer from Russia🎓
+## 🎓 Software Engineer from Russia
 
 - #### I love writing code and learning new things🖥️⌨
 

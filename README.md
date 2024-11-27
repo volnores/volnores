@@ -1,4 +1,4 @@
-<img src="https://github.com/volnores/volnores/blob/main/assets/bg.jpg" alt="Header" height='300px'  />
+<img src="https://github.com/volnores/volnores/blob/main/assets/bg.jpg" alt="Header" style="width: 100%; height: 200px; object-fit: cover;"/>
 
 # 👋 Hello there! I'm Sergey Samsonov
 

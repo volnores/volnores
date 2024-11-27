@@ -4,7 +4,7 @@
 
 ## Software Engineer from Russia🎓
 
-> #### I love writing code and learning new things🖥️
+- #### I love writing code and learning new things🖥️⌨
 
 ## 🌟 Review Projects
 

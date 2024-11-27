@@ -52,10 +52,10 @@
 
 ## 📫 Contact
 
-- [VK](https://vk.com/samsonov_s13)
+### [VK](https://vk.com/samsonov_s13)
 
-- [GitHub](https://github.com/volnores)
+### [GitHub](https://github.com/volnores)
 
-- [Telegram](https://t.me/Vxlnxres)
+### [Telegram](https://t.me/Vxlnxres)
 
 ---

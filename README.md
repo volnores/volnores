@@ -1,8 +1,6 @@
-# Приветствие
+# Hello! 👋
 
-Hello! 👋
-
-I'm Software engeneer
+I'm Software engineer
 
 ---
 
